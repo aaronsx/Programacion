@@ -20,23 +20,22 @@ namespace P21b2
 
 
             diaDeLaSemana = CapturaOpcion(0, 6);
-            nombreDiaSemana = CapturaOpcion(diaDeLaSemana);
 
+            nombreDiaSemana = NombreDiaSemana(diaDeLaSemana);
 
+            
 
 
             Console.WriteLine("\n\tHoy es {0}", nombreDiaSemana);
 
-            Console.Write("\tIntroduce cuántos días quieres avanzar: ");
-            numDias = Convert.ToInt32(Console.ReadLine());
+            numDias = CapturaOpcion("Introduce cuantos dias quieres avanzar");
 
-            if (numDias > 0)
-            {
-                nombreDiaSemanaFinal = ProximoDiaSemana(diaDeLaSemana, numDias);
 
-                Console.WriteLine("\n\tEstamos a {0} y dentro de {1} días será {2}", nombreDiaSemana, numDias, nombreDiaSemanaFinal);
-            }
-            else Console.WriteLine("\n\t¡¡Avanzar significa un número de días mayor de cero!!");
+
+            nombreDiaSemanaFinal = ProximoDiaSemana(diaDeLaSemana, numDias);
+
+            Console.WriteLine("\n\tEstamos a {0} y dentro de {1} días será {2}", nombreDiaSemana, numDias, nombreDiaSemanaFinal);
+            
 
 
             Console.Write("\n\n\t\tPulsa Intro para salir");
@@ -69,11 +68,31 @@ namespace P21b2
             return diaDeLaSemana;
 
         }
-
-        static string CapturaOpcion(int idDiaSemana)
+        static int CapturaOpcion(string txt)
         {
+            int diaDeLaSemana;
+            bool numok;
+            do {
+                Console.Write("{0}: ", txt);
+                numok = Int32.TryParse(Console.ReadLine(), out diaDeLaSemana);
+                if(!numok ) 
+                {
+                    Console.WriteLine("\n\t\t** Error: No ha introducido un valor correcto**");
+                }
+                else if (diaDeLaSemana < 1)
+                {
+                    Console.WriteLine("\n\t\t** Error: Debes avanzar al menos un dia **");
 
+                    numok = false;
+                }
+            }while(!numok);
+            
+            return diaDeLaSemana;
 
+        }
+
+        static string NombreDiaSemana(int idDiaSemana)
+        {
             switch (idDiaSemana)
             {
                 case 0:
@@ -99,7 +118,7 @@ namespace P21b2
             string nombreDiaSemana = String.Empty;
             int diaDeLaSemanaFinal = (diasAvance + idDiaSemana) % 7;
 
-            nombreDiaSemana = CapturaOpcion(diaDeLaSemanaFinal);
+            nombreDiaSemana = NombreDiaSemana(diaDeLaSemanaFinal);
 
             return nombreDiaSemana;
         }
