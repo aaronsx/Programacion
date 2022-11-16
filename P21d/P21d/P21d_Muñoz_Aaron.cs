@@ -6,17 +6,19 @@ using System.Threading.Tasks;
 
 namespace P21d
 {
-    internal class Program
+    //Alumno: Muñoz Prada, Aaron Senen
+    internal class P21d_Muñoz_Aaron
     {
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             int num=0;
             int tope = 0;
-            
+            int suma = 0;
             num = CapturaEntero(num);
             tope= CapturaEntero("\t\n\nIntroduce un segundo numero:", num);
-            MultiplosMenoresDe(num, tope);
+            
+            Console.Write("La suma total es: "+(suma =MultiplosMenoresDe(num, tope)));
 
 
 
@@ -38,10 +40,10 @@ namespace P21d
                     Console.WriteLine("\t\n\n***Error** Introduce un numero.");
 
                 }
-                else if (num < 10 || num > 99)
+                else if (num < 10 || num > 98)
                 {
                     Console.WriteLine("\t\n\n***Error** Introduce un numero mayor que 10 y menor que 99.");
-
+                    minok = false;
                 }
             } while (!(minok));
             return num;
@@ -52,40 +54,38 @@ namespace P21d
             bool numok;
             do
             {
+                numok = true;
                 Console.Write("{0} ", txt);
                 numok = Int32.TryParse(Console.ReadLine(), out num);
                 if (!numok)
                 {
                     Console.WriteLine("\n\t\t** Error: No ha introducido un valor correcto**");
                 }
-                else if (num < 1 || num >= nume)
+                else if (num < 1 || num <= nume)
                 {
                     Console.WriteLine("\n\t\t** Error:Introduce un valor positivo");
 
                     numok = false;
                 }
                 
+
             } while (!numok);
 
             return num;
 
         }
-        static void MultiplosMenoresDe(int num, int limiteSup)
+        static int MultiplosMenoresDe(int num, int limiteSup)
         {
            int suma = 0;
-            for (int i = 1; i <= limiteSup; i++ )
+            for (int i = num; i <= limiteSup; i++ )
             {
                 if (i % num == 0)
                 {
                     Console.WriteLine(i);
-                }
-                    
-                suma = suma + i;
-
-
-                
+                    suma += i;
+                }   
             }
-            Console.WriteLine("La suma total es: " + suma);
+            return suma;
         }
 
         

@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P21e\P21e\obj\Debug\P21e.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P21e\P21e\obj\Debug\P21e.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P21e\P21e\obj\Debug\P21e.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P21e\P21e\bin\Debug\P21e.exe.config
+C:\Users\csi22-amunada\source\repos\P21e\P21e\bin\Debug\P21e.exe
+C:\Users\csi22-amunada\source\repos\P21e\P21e\bin\Debug\P21e.pdb
+C:\Users\csi22-amunada\source\repos\P21e\P21e\obj\Debug\P21e.exe
+C:\Users\csi22-amunada\source\repos\P21e\P21e\obj\Debug\P21e.pdb

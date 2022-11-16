@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53700111-EF7A-42EF-AC69-62142A5F592D}</ProjectGuid>
+    <ProjectGuid>{FF947351-53E6-42D3-8CC0-ACF68B829404}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>P21d</RootNamespace>
-    <AssemblyName>P21d</AssemblyName>
+    <RootNamespace>Entrenamiento_con_vectores</RootNamespace>
+    <AssemblyName>Entrenamiento con vectores</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="P21d_Muñoz_Aaron.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
