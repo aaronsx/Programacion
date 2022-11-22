@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P22b\P22b\bin\Debug\P22b.exe.config
+C:\Users\csi22-amunada\source\repos\P22b\P22b\bin\Debug\P22b.exe
+C:\Users\csi22-amunada\source\repos\P22b\P22b\bin\Debug\P22b.pdb
+C:\Users\csi22-amunada\source\repos\P22b\P22b\obj\Debug\P22b.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P22b\P22b\obj\Debug\P22b.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P22b\P22b\obj\Debug\P22b.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P22b\P22b\obj\Debug\P22b.exe
+C:\Users\csi22-amunada\source\repos\P22b\P22b\obj\Debug\P22b.pdb
