@@ -18,14 +18,14 @@ namespace P22d
             int num = 0;
             int colum = 0;
             Console.ForegroundColor = ConsoleColor.Cyan;
-
+            
             do
             {
 
                 Console.Clear();
                 num = CapturaEntero("\n\n\t\t Elige el tamaño", 5, 100);
                 int[] vNones = new int[num];
-                vNones = CargaTablaNone(vNones, num);
+                vNones = CargaTablaNone(vNones);
                 colum = CapturaEntero("En cuantas columnas las quieres?", 1, 8);
                 MuestraTabla(vNones, colum);
                 Siono = PreguntaSiNo("\n\n\t\tSi quieres continuar presione s para SI y si deseas salir pulse n para NO:");
@@ -39,10 +39,12 @@ namespace P22d
         {
             Console.Clear();
             Console.Write("\n\n\t\tPulsa Intro para salir");
-            Console.ReadLine();
+            Console.ReadKey(true);
+            
         }
         static int CapturaEntero(string txt, int min, int max)
         {
+
             int num = 0;
             do
             {
@@ -55,14 +57,14 @@ namespace P22d
 
             return num;
         }
-        static int[] CargaTablaNone(int[] vNones, int numE)
+        static int[] CargaTablaNone(int[] vNones)
         {
 
             int impar = 1;
 
             for (int i = 0; i < vNones.Length; i++)
             {
-                vNones[i] = impar;
+                vNones[i]= impar;
                 impar += 2;
             }
             return vNones;
@@ -82,24 +84,37 @@ namespace P22d
         }
         static bool PreguntaSiNo(string txt)
         {
-
+            bool ok;
+            
             char letra;
             do
             {
 
                 Console.Write("{0}", txt);
-                letra = Console.ReadKey().KeyChar;
+                ok = Char.TryParse(Console.ReadLine() ,out letra);
 
-                if (letra == 's' || letra == 'S')
-                    return true;
-                if (letra == 'n' || letra == 'N')
-                    return false;
+                if (!ok)
+                    Console.Write("\n\n\t\t***ERROR*** Introduce una letra s=Si o n=No");
+                else 
+                {
+                    if (letra == 's' || letra == 'S')
+                        return false;
 
-                Console.Write("\n\n\t\t***ERROR*** Introduce una letra s=Si o n=No");
+
+                     if (letra == 'n' || letra == 'N')
+                        return true;
+                    
+                        Console.Write("\n\n\t\t***ERROR*** Introduce una letra s=Si o n=No");
+
+
+                }
+                
+
+               
 
             } while (true);
 
-
+            
 
 
 
