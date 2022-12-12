@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\bin\Debug\P23Ejemplo2.exe.config
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\bin\Debug\P23Ejemplo2.exe
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\bin\Debug\P23Ejemplo2.pdb
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\obj\Debug\P23Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\obj\Debug\P23Ejemplo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\obj\Debug\P23Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\obj\Debug\P23Ejemplo2.exe
+C:\Users\csi22-amunada\source\repos\P23Ejemplo2\P23Ejemplo2\obj\Debug\P23Ejemplo2.pdb
