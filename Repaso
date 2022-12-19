@@ -1,0 +1,50 @@
+static void Main(string[] args)
+        {
+            //P22
+            #region-----P22
+            int num;
+            int[] vEnt;
+            num = CapturaEntero("Introduce un numero entero:", 5, 20);
+            vEnt = new int[num];
+            for (int i = 0; i < vEnt.Length; i++)
+            {
+                num = CapturaEntero("Introduce un numero entero:", -30, 50);
+                if (num == 0)
+                {
+                    break;
+                }
+                else
+                {
+                    vEnt[i] = num;
+                }
+            }
+            for (int i = 0; i < vEnt.Length; i++)
+            {
+                Console.WriteLine(i+") "+vEnt[i]);
+            }
+        }
+            #endregion
+
+        static int CapturaEntero(string txt, int min, int max)
+        {
+                bool ok;
+                int num;
+                do
+                {
+                    Console.Write("{0} [{1}...{2}]", txt, min, max);
+                    ok = Int32.TryParse(Console.ReadLine(), out num);
+                    if (!ok)
+                    {
+                        Console.Write("***ERROR*** Introduce uun numero valido");
+                    }
+                    else
+                    {
+                        if (num < min || num > max)
+                        {
+                            Console.Write("***ERROR*** Numero fuera de rango");
+                            ok = false;
+                        }
+                    }
+                } while (!ok);
+                return num;
+        }
