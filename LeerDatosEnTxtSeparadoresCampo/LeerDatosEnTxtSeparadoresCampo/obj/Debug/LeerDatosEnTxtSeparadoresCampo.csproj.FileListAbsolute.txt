@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\bin\Debug\LeerDatosEnTxtSeparadoresCampo.exe.config
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\bin\Debug\LeerDatosEnTxtSeparadoresCampo.exe
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\bin\Debug\LeerDatosEnTxtSeparadoresCampo.pdb
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\obj\Debug\LeerDatosEnTxtSeparadoresCampo.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\obj\Debug\LeerDatosEnTxtSeparadoresCampo.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\obj\Debug\LeerDatosEnTxtSeparadoresCampo.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\obj\Debug\LeerDatosEnTxtSeparadoresCampo.exe
+C:\Users\csi22-amunada\source\repos\LeerDatosEnTxtSeparadoresCampo\LeerDatosEnTxtSeparadoresCampo\obj\Debug\LeerDatosEnTxtSeparadoresCampo.pdb
