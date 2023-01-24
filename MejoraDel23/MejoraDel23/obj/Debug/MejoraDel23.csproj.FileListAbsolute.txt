@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\bin\Debug\MejoraDel23.exe.config
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\bin\Debug\MejoraDel23.exe
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\bin\Debug\MejoraDel23.pdb
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\obj\Debug\MejoraDel23.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\obj\Debug\MejoraDel23.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\obj\Debug\MejoraDel23.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\obj\Debug\MejoraDel23.exe
+C:\Users\csi22-amunada\source\repos\MejoraDel23\MejoraDel23\obj\Debug\MejoraDel23.pdb

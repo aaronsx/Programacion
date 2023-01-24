@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P31a\P31a\obj\Debug\P31a.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P31a\P31a\obj\Debug\P31a.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P31a\P31a\obj\Debug\P31a.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P31a\P31a\bin\Debug\P31a.exe.config
+C:\Users\csi22-amunada\source\repos\P31a\P31a\bin\Debug\P31a.exe
+C:\Users\csi22-amunada\source\repos\P31a\P31a\bin\Debug\P31a.pdb
+C:\Users\csi22-amunada\source\repos\P31a\P31a\obj\Debug\P31a.exe
+C:\Users\csi22-amunada\source\repos\P31a\P31a\obj\Debug\P31a.pdb

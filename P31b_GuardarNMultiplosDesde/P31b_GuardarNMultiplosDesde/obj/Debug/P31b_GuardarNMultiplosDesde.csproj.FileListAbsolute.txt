@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\obj\Debug\P31b_GuardarNMultiplosDesde.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\obj\Debug\P31b_GuardarNMultiplosDesde.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\obj\Debug\P31b_GuardarNMultiplosDesde.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\bin\Debug\P31b_GuardarNMultiplosDesde.exe.config
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\bin\Debug\P31b_GuardarNMultiplosDesde.exe
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\bin\Debug\P31b_GuardarNMultiplosDesde.pdb
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\obj\Debug\P31b_GuardarNMultiplosDesde.exe
+C:\Users\csi22-amunada\source\repos\P31b_GuardarNMultiplosDesde\P31b_GuardarNMultiplosDesde\obj\Debug\P31b_GuardarNMultiplosDesde.pdb

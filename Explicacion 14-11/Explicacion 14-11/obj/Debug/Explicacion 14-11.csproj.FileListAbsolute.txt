@@ -1,0 +1,3 @@
+C:\Users\csi22-amunada\source\repos\Explicacion 14-11\Explicacion 14-11\obj\Debug\Explicacion 14-11.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\Explicacion 14-11\Explicacion 14-11\obj\Debug\Explicacion 14-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\Explicacion 14-11\Explicacion 14-11\obj\Debug\Explicacion 14-11.csproj.CoreCompileInputs.cache

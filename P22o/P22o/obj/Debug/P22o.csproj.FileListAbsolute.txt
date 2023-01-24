@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P22o\P22o\bin\Debug\P22o.exe.config
+C:\Users\csi22-amunada\source\repos\P22o\P22o\bin\Debug\P22o.exe
+C:\Users\csi22-amunada\source\repos\P22o\P22o\bin\Debug\P22o.pdb
+C:\Users\csi22-amunada\source\repos\P22o\P22o\obj\Debug\P22o.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P22o\P22o\obj\Debug\P22o.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P22o\P22o\obj\Debug\P22o.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P22o\P22o\obj\Debug\P22o.exe
+C:\Users\csi22-amunada\source\repos\P22o\P22o\obj\Debug\P22o.pdb

@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\bin\Debug\Ficheros.exe.config
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\bin\Debug\Ficheros.exe
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\bin\Debug\Ficheros.pdb
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.exe
+C:\Users\csi22-amunada\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.pdb

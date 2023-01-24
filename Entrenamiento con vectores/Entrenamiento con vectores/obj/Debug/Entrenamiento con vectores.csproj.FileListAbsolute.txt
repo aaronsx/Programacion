@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\bin\Debug\Entrenamiento con vectores.exe.config
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\bin\Debug\Entrenamiento con vectores.exe
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\bin\Debug\Entrenamiento con vectores.pdb
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\obj\Debug\Entrenamiento con vectores.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\obj\Debug\Entrenamiento con vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\obj\Debug\Entrenamiento con vectores.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\obj\Debug\Entrenamiento con vectores.exe
+C:\Users\csi22-amunada\source\repos\Entrenamiento con vectores\Entrenamiento con vectores\obj\Debug\Entrenamiento con vectores.pdb

@@ -1,0 +1,8 @@
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\bin\Debug\P31c_GuardaPrimos.exe.config
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\bin\Debug\P31c_GuardaPrimos.exe
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\bin\Debug\P31c_GuardaPrimos.pdb
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\obj\Debug\P31c_GuardaPrimos.csproj.AssemblyReference.cache
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\obj\Debug\P31c_GuardaPrimos.csproj.SuggestedBindingRedirects.cache
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\obj\Debug\P31c_GuardaPrimos.csproj.CoreCompileInputs.cache
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\obj\Debug\P31c_GuardaPrimos.exe
+C:\Users\csi22-amunada\source\repos\P31c_GuardaPrimos\P31c_GuardaPrimos\obj\Debug\P31c_GuardaPrimos.pdb
